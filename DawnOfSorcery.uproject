@@ -31,6 +31,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Locomotor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

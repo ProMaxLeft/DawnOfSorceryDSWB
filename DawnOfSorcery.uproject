@@ -35,6 +35,10 @@
 		{
 			"Name": "Locomotor",
 			"Enabled": true
+		},
+		{
+			"Name": "NaniteDisplacedMesh",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
